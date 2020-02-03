@@ -1,0 +1,2 @@
+# Practice-CVS-
+Обучение UleaRN
